@@ -53,60 +53,6 @@ const message =
 
 Aaj tomar birthday... ar aaj amader prothom kotha howar 1 bochor 29 din.
 
-Haa, ei etodin ami sobsomoy tomar pashe thakte parini. Kintu ei 1 bochor 29 diner protita second ami tomake bhalobeshechi. Ar aj o basi. Onek... onek... onek beshi.
-
-Ei 1 bochor 29 diner protita season, protita month, protita week, protita day, protita hour, protita minute, protita second... shobkichhur modhye tumi chile.
-
-Oneke amay onek somoy bole,
-"Mon kharap? Oke mone porchhe?"
-
-Kintu amar mone hoy, mone to takei kora hoy, jake eksomoy bhule jaoa hoy. Tumi to kokhono amar mon theke beriye jaoni. Tumi sobsomoy amar monei thako. Tai tomake alada kore mone korar proyojon hoy na. Ar sotti bolchi... ami tomake kokhono bhulteo chai na.
-
-Tomar sathe katano protita second amar kache priceless. Ogulo amar jiboner emon kichhu sriti, ja ami kokhono harate chai na.
-
-Achha, sono...
-Tomar sweet sixteen-o sesh hoye gelo. 🫠🤍
-Dekhte dekhte tumi 17 hoye gele. Koto boro hoye gele, na?
-
-Jano, tomar dike takale amar mone hoy ami ekta choto flower plant k dhire dhire boro hoye uthte dekhchi. Ar seta dekhe amar khub bhalo lage.
-
-Tumi amar kache shei phool, jake ami kokhono tule ene nijer room rakhte chai na. Ami chai tumi tomar jayga tei thako. Ami dur thekei tomake dekhi, tomar jotno nei,tomake bhalobasi.
-
-Na ei ba hole tumi amar.
-Bhalobaslei je pete hobe, eta ke boleche?
-Ar na, eta o noy je tumi amar keu na...
-Karon ami... sobsomoy tomar.
-Sudhu tomar.
-
-Tum woh chaand ho... aur agar main uski roshni na ban saka, to kya hua? Main khud ko zameen bana lunga. Roz raat tumhe dekhunga... door hi sahi, par dekh to sakunga. 🌙
-
-Mone ache? Sei movie-r dialogue-ta...
-"Unse mohabbat kamaal ki hoti hai, jinka milna muqaddar mein nahi hota."
-
-Ar sotti bolte...
-Love er kotha bolle, you are my first love.
-Ageo hoyto kauke bhalo legechhilo, kintu segulo shudhu one-sided chhilo. Tai amar kache prothom bhalobasar real onubhuti tumi.
-
-Ar akhon bujhte pari, keno bole...
-"Prothom bhalobasa kokhono bhola jay na."
-
-Ami ar karor preme porte chai na.
-Main tumse suru aur tumpe hi khatam hona chahti hoon.
-
-Chahe tumi amar hou ba na hou...
-Ami believe kori, jodi god amar jonno tomake baniyechen, tahole ekdin tomake ami pabo. Ar jodi na o pai, taholeo amar bhalobasa kombe na.
-
-Achha, ebar rakhi...
-Dekho na, abar koto boro paragraph hoye gelo. 😭
-Kintu ki korbo bolo? Tomake niye kotha bolte shuru korle amar kokhono sesh korte ichhe kore na.
-
-Tai sesh korar age aar ekbar...
-Happy Birthday, amar pretty little baby.
-tomar protita din hasi, shanti, bhalobasa ar onek sundor muhurte fulfilled thakuk.
-
-Ar sobsese...
-I love you to infinity and beyond. ♾️❤️
-
 Happy 17th Birthday, Baby.
 I love you. Always have. Always will. ❤️`;
 
