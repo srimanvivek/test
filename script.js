@@ -151,17 +151,17 @@ function typeLetter(){
 const memoryScreen = document.getElementById("memory-screen");
 const memories = [
     {
-        image: "images/photo1.jpeg",
+        image: "photo1.jpeg",
         title: "Our First Chat 📱",
         caption: "Every beautiful story starts with a small moment ❤️"
     },
     {
-        image: "images/photo2.jpeg",
+        image: "photo2.jpeg",
         title: "A Special Memory 🌸",
         caption: "Some moments become forever memories ✨"
     },
     {
-        image: "images/photo3.jpeg",
+        image: "photo3.jpeg",
         title: "Priceless Moments For Me💕",
         caption: "Haan, tumhare alfaaz aaj bhi mere dil ki dhadkan hain ❤️"
     }
