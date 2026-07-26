@@ -145,7 +145,7 @@ function typeLetter(){
             continueBtn.style.display = "block";
             if (letterCard) letterCard.scrollTop = letterCard.scrollHeight;
         }
-    }, 60); // 60ms delay for smooth typing speed
+    }, 0); // 60ms delay for smooth typing speed
 }
 // Memory Section
 const memoryScreen = document.getElementById("memory-screen");
